@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/myschedule/static/css/main.d1c22dff.chunk.css",
-    "main.js": "/myschedule/static/js/main.c5a35c6f.chunk.js",
-    "main.js.map": "/myschedule/static/js/main.c5a35c6f.chunk.js.map",
-    "runtime-main.js": "/myschedule/static/js/runtime-main.f21b9c06.js",
-    "runtime-main.js.map": "/myschedule/static/js/runtime-main.f21b9c06.js.map",
-    "static/js/2.200931bc.chunk.js": "/myschedule/static/js/2.200931bc.chunk.js",
-    "static/js/2.200931bc.chunk.js.map": "/myschedule/static/js/2.200931bc.chunk.js.map",
+    "main.css": "/myschedule/static/css/main.2afa64f4.chunk.css",
+    "main.js": "/myschedule/static/js/main.3eb23089.chunk.js",
+    "main.js.map": "/myschedule/static/js/main.3eb23089.chunk.js.map",
+    "runtime-main.js": "/myschedule/static/js/runtime-main.13920ba4.js",
+    "runtime-main.js.map": "/myschedule/static/js/runtime-main.13920ba4.js.map",
+    "static/js/2.aa7ad6cd.chunk.js": "/myschedule/static/js/2.aa7ad6cd.chunk.js",
+    "static/js/2.aa7ad6cd.chunk.js.map": "/myschedule/static/js/2.aa7ad6cd.chunk.js.map",
     "index.html": "/myschedule/index.html",
-    "static/css/main.d1c22dff.chunk.css.map": "/myschedule/static/css/main.d1c22dff.chunk.css.map",
-    "static/js/2.200931bc.chunk.js.LICENSE.txt": "/myschedule/static/js/2.200931bc.chunk.js.LICENSE.txt"
+    "static/css/main.2afa64f4.chunk.css.map": "/myschedule/static/css/main.2afa64f4.chunk.css.map",
+    "static/js/2.aa7ad6cd.chunk.js.LICENSE.txt": "/myschedule/static/js/2.aa7ad6cd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f21b9c06.js",
-    "static/js/2.200931bc.chunk.js",
-    "static/css/main.d1c22dff.chunk.css",
-    "static/js/main.c5a35c6f.chunk.js"
+    "static/js/runtime-main.13920ba4.js",
+    "static/js/2.aa7ad6cd.chunk.js",
+    "static/css/main.2afa64f4.chunk.css",
+    "static/js/main.3eb23089.chunk.js"
   ]
 }
